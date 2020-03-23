@@ -1,0 +1,19 @@
+{
+    "name": "insomnia-plugin-my-demo",
+    "version": "1.0.0",
+    "description": "Basic Demo",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "insomnia": {
+        "name": "my-demo",
+        "description": "A plugin demo"
+    },
+    "license": "ISC",
+    "dependencies": {
+        "json-stable-stringify": "^1.0.1",
+        "jssha": "^2.3.1"
+    },
+    "devDependencies": {}
+}
